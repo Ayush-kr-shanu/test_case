@@ -1,0 +1,23 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-kr-shanu/test_case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-kr-shanu/test_case/issues"
+  },
+  "homepage": "https://github.com/Ayush-kr-shanu/test_case#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
